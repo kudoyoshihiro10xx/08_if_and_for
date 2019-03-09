@@ -10,4 +10,4 @@
 # 課題: 1から20までの整数の内、奇数のみを出力して
 for i in range(1,21):
     if i % 2 == 1:
-    print(i)
+        print(i)
