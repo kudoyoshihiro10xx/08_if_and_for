@@ -6,6 +6,14 @@ for number in numbers:
     if number > champion:
         champion = number
 
+# 最小値
+# champion = numbers[0]
+#
+# for number in numbers:
+#     if number < champion:
+#         champion = number
+
+
 print(champion)
 #
 # champion > 0
