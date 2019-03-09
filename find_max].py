@@ -5,6 +5,7 @@ champion = 0
 for number in numbers:
     if number > champion:
         champion = number
+# 上記のif文がfalseならば、championは、そのままの値になる
 
 # 最小値
 # champion = numbers[0]
